@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/utku çakılca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utku çakılca" height="30" width="40" /></a>
 </p>
 
-<img src="https://c.tenor.com/B-jhKtQZbgYAAAAC/dancing-mascot-android.gif" width="120" height="120" />
+<img src="https://c.tenor.com/B-jhKtQZbgYAAAAC/dancing-mascot-android.gif" width="300" height="300" />
 
 
 <h3 align="left">Languages and Tools:</h3>
