@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/utku çakılca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utku çakılca" height="30" width="40" /></a>
 </p>
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://tenor.com/view/dancing-mascot-android-breakdance-greenman-gif-10214660" width="120" height="120" />
 
 
 <h3 align="left">Languages and Tools:</h3>
